@@ -39,8 +39,9 @@ The purpose of this project is to analyse and visualize Time Series data to pred
 ![After Lockdown](https://imgur.com/D72MOYV.png)
 
 ---
+
 ## Project Description
-Using the data provided by [University of Kalyani](https://github.com/kalyaniuniversity/COVID-19-Datasets) we analyzed and visualized the Covid-19 cases across Indian states and union territories. We found out the top 5 worse hit states alongside the states which have been performing better than the rest. We also found out mortality rate and recovery rate across Indian states. We also predicted the number of cases that could have taken place in April if no Lockdown was implemented by the Indian Goverment. And in the end we used FBProphet's forecasting tools to figure out how each phases of lockdown affected the future number of cases and if starting Unlockdown on June 1 was a bad idea.
+Using the data provided by [University of Kalyani](https://github.com/kalyaniuniversity/COVID-19-Datasets) we analyzed and visualized the Covid-19 cases across Indian states and union territories. We found out the top 5 worse hit states alongside the states which have been performing better than the rest. We also found out mortality rate and recovery rate across Indian states. We also predicted the number of cases that could have taken place in April if no Lockdown was implemented by the Indian Government. And in the end, we used FBProphet's forecasting tools to figure out how each phase of lockdown affected the future number of cases and if starting Unlockdown on June 1 was a bad idea.
 
 ---
 
