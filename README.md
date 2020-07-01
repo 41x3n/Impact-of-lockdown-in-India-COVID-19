@@ -1,7 +1,7 @@
 # Impact-of-lockdown-in-India-COVID-19
 This is the final year Major Project for Bachelor of Computer Application at Brainware University
 
-### Project Status: Completed (You can see it in action on [kaggle](https://www.kaggle.com/anindya41x3n/impact-of-lockdown-in-india-covid-19) and [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ozZrwKWw7rHYlrnV71Lp74Fp1iiI4WCk?usp=sharing)
+### Project Status: Completed (You can see it in action on [kaggle](https://www.kaggle.com/anindya41x3n/impact-of-lockdown-in-india-covid-19) and [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ozZrwKWw7rHYlrnV71Lp74Fp1iiI4WCk?usp=sharing) )
 ---
 ## Table of contents
 * [Project Objective](#Project-Objective)
