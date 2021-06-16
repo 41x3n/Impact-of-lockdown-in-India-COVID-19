@@ -2,6 +2,7 @@
 This is the final year Major Project for Bachelor of Computer Application at Brainware University
 
 ### Project Status: Completed [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ozZrwKWw7rHYlrnV71Lp74Fp1iiI4WCk?usp=sharing)
+### Paper Published in Brainwave: A Multidisciplinary Journal (ISSN: 2582-659X): [ResearchGate](https://www.researchgate.net/publication/351526948_Impact_of_Lockdown_Due_to_Spread_of_Covid-19_in_India)
 
 (You can see it in action on [kaggle](https://www.kaggle.com/anindya41x3n/impact-of-lockdown-in-india-covid-19))
 ---
